@@ -62,8 +62,8 @@ main img {
 
 @media screen and (min-width:500px) {
     .contenedor-img{
-        grid-template-columns: repeat(3, 2fr);
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 2fr);
         
     }
 }
